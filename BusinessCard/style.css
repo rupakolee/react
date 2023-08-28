@@ -1,0 +1,85 @@
+body {
+    color: #fff;
+ }
+ 
+ .main {
+     width: 550px;
+     background: #23252C;
+ }
+ 
+ .main-container {
+     width: 317px;
+     margin: auto;
+    background: #1A1B21;
+ }
+
+.my-image {
+width: 317px;
+height: 317px;
+background: url(.png);
+border-radius: 10px 10px 0px 0px;
+}
+
+.text-container {
+    text-align: center;
+}
+
+.text {
+    width: 217px;
+    margin: 40px auto;
+}
+
+.bulk-text {
+    margin: 48px 0px;
+}
+
+h2 {
+    margin-top: 40px;
+    line-height: 0px;
+}
+
+#site {
+    margin-top: -8px;
+}
+
+h4 {
+    margin-bottom: 24px;
+    font-weight: 100;
+    color: #F3BF99;
+}
+
+p {
+    font-size: 11px;
+    line-height: 1.4em;
+    font-weight: 100;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 30px;
+}
+
+.buttons button {
+    width: 115px;
+    padding: 8px;
+    border-radius: 8px;
+    font-size: 14px;
+}
+
+#linkedIn {
+    background: #5093E2;
+    color: #fff;
+}
+
+.footer {
+    background: #161619;
+    display: flex;
+    justify-content: center;
+}
+
+.footer svg {
+    width: 25px;
+    height: 25px;
+    padding: 4px 12px;
+}
