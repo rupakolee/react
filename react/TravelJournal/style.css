@@ -1,0 +1,64 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+ }
+ 
+ header {
+    background-color: #F55A5A;
+    padding: 12px;
+ }
+
+.header {
+    color: #fff;
+    text-align: center;
+    font-size: 10px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    margin: 28px 10px;
+}
+
+.bold {
+    font-weight: 600;
+    font-size: 12px;
+    margin-bottom: 8px;
+}
+
+.underlined {
+    text-decoration: underline;
+    font-size: 12px;
+    color: #918E9B;
+    margin-left: 12px;
+}
+
+h2 {
+    margin-bottom: 24px;
+}
+
+.identifier {
+    margin-bottom: 6px;
+}
+
+.description {
+    font-size: 12px;
+    color: #2B283A;
+}
+
+.country {
+    letter-spacing: 3px;
+    font-size: 14px;
+    margin: 0 6px;
+}
+
+.map-icon {
+    width: 10px;
+}
+
+.profile {
+    width: 160px;
+    height: 200px;
+    margin-right: 18px;
+}
